@@ -4,3 +4,14 @@ I chose this artifact for the Algorithms and Data Structures category because it
 
 While working on this enhancement, I learned how to use didChangeDependencies() to get data from another screen and update the UI based on it. This was new for me, and it helped me understand how data moves between screens in Flutter. I also got better at writing logic that filters data from a list and displays it cleanly. A small challenge was making sure the category filter worked well when the screen first opened, I fixed this by updating the state properly. Overall, this helped me feel more confident using lists and logic in Flutter.
 
+
+## Screenshots
+
+### Search
+![Search Screen](../../assets/images/search.png)
+
+### Items
+![Items Screen](../../assets/images/items.png)
+
+### Categories
+![Categories Screen](../../assets/images/categories.png)
