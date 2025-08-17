@@ -14,6 +14,12 @@ This portfolio highlights my work in software design, algorithms, and databases,
 
 ## Projects & Artifacts  
 
+### Code Review Video  
+As part of my capstone, I recorded a walkthrough of my project, explaining its original functionality, areas for improvement, and planned enhancements.  
+[Watch on YouTube](https://youtu.be/9Ju1Sld7GWk)  
+
+---
+
 ### 1. Original Inventory App  
 **Description:** First version of my mobile inventory management app.  
 **Focus:** Usability, item & category management, basic navigation.  
