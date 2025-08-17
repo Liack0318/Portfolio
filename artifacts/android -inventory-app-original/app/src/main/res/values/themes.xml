@@ -1,0 +1,24 @@
+ <resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.InventoryApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_primary </item>
+        <item name="colorPrimaryVariant">@color/my_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorSecondary">@color/my_secondary </item>
+        <item name="colorSecondaryVariant">@color/my_secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.InventoryApp" parent="Base.Theme.InventoryApp" />
+
+     <style name="Theme.InventoryApp.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+         <item name="colorPrimary">@color/my_primary</item>
+         <item name="colorPrimaryVariant">@color/my_primary</item>
+         <item name="colorOnPrimary">@color/white</item>
+         <item name="colorSecondary">@color/my_secondary</item>
+         <item name="colorSecondaryVariant">@color/my_secondary</item>
+         <item name="colorOnSecondary">@color/black</item>
+     </style>
+</resources>
