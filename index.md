@@ -1,11 +1,4 @@
-# Cristian Chalarca – ePortfolio
-View the Project on GitHub: [Liack0318/Portfolio](https://github.com/Liack0318/Portfolio)
-
----
-
-## Cristian Chalarca – Portfolio  
-
-### Welcome  
+## Welcome  
 I’m Cristian, a Computer Science student passionate about building mobile apps and learning software engineering best practices.  
 
 This portfolio highlights my work in software design, algorithms, and databases, along with a complete inventory management application.  
