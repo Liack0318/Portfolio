@@ -4,3 +4,13 @@ I chose to include this artifact because it represents one of my most substantia
 
 Enhancing this artifact was by far the most time-consuming and challenging project I have worked on so far. Integrating Firebase Firestore meant learning its data structure, query constraints, and asynchronous operations from scratch, which took considerable research and experimentation. I also encountered challenges with indexing, query limitations, and ensuring data consistency across related collections. Implementing image uploads added another layer of complexity, requiring me to work with a separate cloud storage provider, handle file uploads, store URLs, and ensure images displayed correctly in the app. This feature alone introduced a cost factor, as I had to subscribe to a paid image hosting service to provide reliable and scalable storage. The process required a significant investment of time and problem-solving, but it ultimately improved my technical skills in mobile development, backend integration, and working with third-party services. The result is a far more capable, realistic, and production-ready inventory application.
 
+## Screenshots
+
+### Items (with Firebase data)
+![Items Screen](../../assets/images/items1.png)
+
+### Categories (with Firebase data)
+![Categories Screen](../../assets/images/categories1.png)
+
+### Dashboard (with Firebase data)
+![Dashboard Screen](../../assets/images/dashboard1.png)
