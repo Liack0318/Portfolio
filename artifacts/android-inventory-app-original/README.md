@@ -11,3 +11,7 @@ mistakes early and make sure the app worked well for users.
 One of the main challenges was making the app easy to navigate. By making thoughtful changes along the way, 
 I was able to create an app that users can rely on to manage their inventory. The success of the item and 
 category management features showed that the app met its goals and worked well for its users.
+
+## Screenshot
+
+![Original App Screenshot](../../assets/images/firstApp.png)
