@@ -1,4 +1,4 @@
-# SNHUCS360
+# Inventory App
 
 The InventoryApp is meant to help users easily manage their inventory. It was designed to make it simple 
 for users to add, edit, and view items and categories, ensuring everything stays organized. The app's screens 
