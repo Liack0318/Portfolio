@@ -23,7 +23,7 @@ This portfolio showcases the work I have done throughout my degree, including en
 
 ## Code Review Video
 As part of my capstone, I created a walkthrough video explaining my code review and enhancements:  
-[Watch the Code Review Video](#) *(link to YouTube or upload if under 100 MB)*
+[Watch the Code Review Video](#) *https://youtu.be/9Ju1Sld7GWk*
 
 ---
 
