@@ -1,13 +1,16 @@
 ## Welcome  
-My name is Cristian Chalarca, and I am a Computer Science student with a concentration in Software Engineering. Alongside my studies, I work as a Software Implementation Engineer, where I apply technical skills to real-world projects and collaborate with clients to deliver solutions.
+My name is Cristian Chalarca, and I am a Computer Science student with a concentration in Software Engineering. 
 
-This ePortfolio is a representation of my academic journey and the skills I have developed throughout the Computer Science program. It demonstrates my growth in three key areas: software design and engineering, algorithms and data structures, and databases. Each artifact highlights how I applied planning, problem-solving, and enhancement strategies to create more robust and professional solutions.
+Throughout my Computer Science program at SNHU, I have grown as both a student and a professional, developing the technical and soft skills that will guide my career. Building this ePortfolio gave me the opportunity to reflect on that growth and to present my strengths in a cohesive way. My coursework and projects have not only strengthened my problem-solving and technical abilities but also helped me shape my professional goals of becoming a software engineer with strong skills in software development and secure coding practices.
 
-For example, my Software Design and Engineering enhancements improved code readability and maintainability, reflecting industry best practices. My Algorithms and Data Structures work strengthened validation and efficiency, showing problem-solving and logical thinking. Finally, the Database integration demonstrates my ability to implement real-time, persistent storage using Firebase, bridging academic work with practical applications.
+Collaboration has been an essential part of my journey. In team settings, I learned how to divide responsibilities, merge contributions effectively, and maintain consistent coding standards. Beyond the classroom, my work experience as a Software Implementation Engineer allowed me to practice collaborating with diverse teams and communicating with stakeholders to ensure technical solutions aligned with organizational needs. These experiences taught me that effective communication is as important as technical expertise when delivering successful software solutions.
 
-These experiences, along with my coursework and professional role, have prepared me to contribute as a software engineer. I am committed to building applications that are not only functional but also maintainable, secure, and user-friendly. This portfolio provides evidence of those skills and the value I can deliver in professional environments.
+The program also pushed me to deepen my knowledge of core computer science concepts. Through courses in algorithms and data structures, I learned how to design efficient solutions and manage the trade-offs between time and memory. In software engineering and database courses, I applied those principles by designing maintainable code and implementing persistent data solutions, such as Firebase, to support real-world applications. Security was another major focus; by adopting a “security-first” mindset, I learned to anticipate potential vulnerabilities, apply best practices, and design software that not only works but also protects users and data.
 
-This portfolio highlights my work in software design, algorithms, and databases, along with a complete inventory management application.  
+The artifacts in this portfolio demonstrate how these skills come together. Starting with an original inventory management app, I enhanced it across three categories—software design, algorithms and data structures, and databases. Each enhancement highlights a different aspect of my growth: refactoring for maintainability, improving logic for efficiency and safety, and integrating a real-time database for persistent storage. Taken as a whole, these artifacts show my ability to move from planning and design to implementation and improvement, while keeping usability and security in mind.
+	
+This self-assessment serves as both an introduction and a reflection of my journey. It shows how my coursework, projects, and professional experiences have prepared me to contribute to the computer science field. 
+
 
 ---
 
