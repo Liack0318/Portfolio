@@ -1,5 +1,11 @@
 ## Welcome  
-I’m Cristian, a Computer Science student passionate about building mobile apps and learning software engineering best practices.  
+My name is Cristian Chalarca, and I am a Computer Science student with a concentration in Software Engineering. Alongside my studies, I work as a Software Implementation Engineer, where I apply technical skills to real-world projects and collaborate with clients to deliver solutions.
+
+This ePortfolio is a representation of my academic journey and the skills I have developed throughout the Computer Science program. It demonstrates my growth in three key areas: software design and engineering, algorithms and data structures, and databases. Each artifact highlights how I applied planning, problem-solving, and enhancement strategies to create more robust and professional solutions.
+
+For example, my Software Design and Engineering enhancements improved code readability and maintainability, reflecting industry best practices. My Algorithms and Data Structures work strengthened validation and efficiency, showing problem-solving and logical thinking. Finally, the Database integration demonstrates my ability to implement real-time, persistent storage using Firebase, bridging academic work with practical applications.
+
+These experiences, along with my coursework and professional role, have prepared me to contribute as a software engineer. I am committed to building applications that are not only functional but also maintainable, secure, and user-friendly. This portfolio provides evidence of those skills and the value I can deliver in professional environments. 
 
 This portfolio highlights my work in software design, algorithms, and databases, along with a complete inventory management application.  
 
